@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">nika</string>
+    <string name="scanner_failed_apply_properties">Scanner failed</string>
+    <string name="scanner_unavailable">Scanner unavailable</string>
+</resources>

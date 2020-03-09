@@ -1,0 +1,2 @@
+rootProject.name='nika'
+include ':app', ':DataCollection'
